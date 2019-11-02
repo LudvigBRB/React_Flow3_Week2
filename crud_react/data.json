@@ -1,0 +1,53 @@
+{
+  "api": [
+    {
+      "id": "59dde0deb5516ea4f23590f9",
+      "age": 31,
+      "name": "Karyn Fulton",
+      "gender": "female",
+      "email": "karynfulton@zedalis.com"
+    },
+    {
+      "id": "59dde0de06024380d2fe4f86",
+      "age": 24,
+      "name": "Billie Lambern",
+      "gender": "female",
+      "email": "billielamb@zedalis.com"
+    },
+    {
+      "id": "5scscqf",
+      "age": 33,
+      "name": "Benny Bob",
+      "gender": "male",
+      "email": "bob@benny.com"
+    },
+    {
+      "id": "NbHuaE-",
+      "age": "2",
+      "name": "Per",
+      "email": "per@hotmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "9NkTnw0",
+      "age": "33",
+      "name": "Lone",
+      "email": "lone@ersej.dk",
+      "gender": "female"
+    },
+    {
+      "id": "GdXUeU7",
+      "age": "99",
+      "name": "Iben",
+      "email": "iben@svin.dk",
+      "gender": "female"
+    },
+    {
+      "name": "Anders",
+      "age": "9",
+      "email": "anders@oge.dk",
+      "gender": "male",
+      "id": "RuwaxCD"
+    }
+  ]
+}
